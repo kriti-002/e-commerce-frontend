@@ -8,6 +8,7 @@ import Cart from './pages/Cart'
 import ItemDescription from "./pages/ItemDescription"
 import Profile from './pages/Profile'
 import NotFound from "./pages/NotFound";
+
 function App() {
   return (
     <BrowserRouter>
